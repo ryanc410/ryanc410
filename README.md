@@ -15,12 +15,11 @@ online resources and E-books that I find along the way, but a book cant answer y
 <h2>My Home Server</h2> 
 <ul>
 <li>TrueNAS Server</li>
-    <li>Supermicro X8DTU-F</li>
-        <li>2x Intel(R) Xeon(R) CPU X5660 @ 2.80GHz 12c/24t</li>
-            <li>60GB ECC Registered RAM</li>
-                <li>1x 3.0 TB WD Red NAS HDD</li>
-                <li>1x 1TB WD Green SSD</li>
-                <li>1x 2TB Seagate HDD</li>
+        <li>2x AMD Opteron 6380 CPU 16c/32t</li>
+            <li>192GB ECC Registered RAM</li>
+                <li>1x 12TB WD Red NAS 7200RPM HDD</li>
+                <li>2x 4TB WD Red NAS 5400 RPM HHD</li>
+                <li>1x 120GB Samsung SSD for OS</li>
 </ul>
 <!---
 ryanc410/ryanc410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
